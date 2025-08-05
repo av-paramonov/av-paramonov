@@ -18,6 +18,9 @@
 </div>
 
 ---
+Это <span style="color:blue">синий текст</span>, а это <span style="color:#ff5500">оранжевый</span>.
+
+---
 ### 🔧 Технические навыки
 **Программирование & Анализ**  
 <span style="background-color:yellow; padding:2px">Желтый фон</span> `Python` (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, SciPy, Phi_K)  
