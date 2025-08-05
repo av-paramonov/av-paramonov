@@ -1,11 +1,10 @@
 # Привет👋 Меня зовут Парамонов Алексей!
 **Data Scientist | Data Engineer | Аналитик данных**  
-Решение бизнес-задач через Machine Learning и глубокий анализ данных  
-`Python` `SQL` `ML` `Статистика` `DataLens`  
+Решение бизнес-задач через глубокий анализ данных  
+`Python` `SQL` `Статистика` `DataLens`  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/AV_ParamonoB) 
 [![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:av_paramonov@inbox.ru)
-[![Habr Career](https://img.shields.io/badge/-HH.ru-0d9e4e?style=flat&logo=hh.ru&logoColor=white)](https://ekaterinburg.hh.ru/resume/your_code)
 
 ---
 <h3 align="left">🛠 Технологии:</h3>
