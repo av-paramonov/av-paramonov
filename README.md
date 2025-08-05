@@ -24,7 +24,7 @@
 ### 🔧 Технические навыки
 **Программирование & Анализ**  
 <span style="background-color:yellow; padding:2px">Желтый фон</span> `Python` (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, SciPy, Phi_K)  
-`SQL` (PostgreSQL, оконные функции, оптимизация)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) (PostgreSQL, оконные функции, оптимизация)  
 `Статистика` (A/B-тесты, корреляционный анализ)  
 
 **ML & Инфраструктура**  
