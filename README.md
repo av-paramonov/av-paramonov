@@ -18,10 +18,7 @@
 </div>
 
 ---
-**Ключевые достижения:**
-- Разработал <span style="color:#1e90ff; font-weight:bold">прогнозную модель ТОиР</span> для 500+ объектов
-- Внедрил <span style="background-color:#e6f7ff; padding:2px">дашборды мониторинга</span> в DataLens
-- Оптимизировал бюджет на <span style="color:green; font-weight:bold">25 млн руб/год</span>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 ### 🔧 Технические навыки
