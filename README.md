@@ -33,6 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
+
 ---
 ### 🔧 Технические навыки
 **Программирование & Анализ**  
