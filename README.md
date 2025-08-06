@@ -15,6 +15,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://github.com/av-paramonov/av-paramonov/blob/02f67d67c8d8f657ce2deadda2ebea1e6ed98f8f/logo_datalens_3.jpeg" height="40" alt="datalens logo"  />
 </div>
 
 ---
