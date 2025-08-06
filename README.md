@@ -16,10 +16,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://github.com/av-paramonov/av-paramonov/blob/02f67d67c8d8f657ce2deadda2ebea1e6ed98f8f/logo_datalens_3.jpeg" height="40" alt="datalens logo"  />
+  <img src="https://github.com/av-paramonov/av-paramonov/blob/02f67d67c8d8f657ce2deadda2ebea1e6ed98f8f/logo_datalens_3.jpeg" height="30" alt="datalens logo"  /> 
+  <img width="12" />
+  <img src="https://github.com/av-paramonov/av-paramonov/blob/f5da942d1c33e5df3e97b85d3cc2f09e6c6d9ea0/logo_excel_2.webp" height="30" alt="datalens logo"  />
 </div>
 
 ---
+
 ### 🔧 Технические навыки
 **Программирование & Анализ**  
 `Python` (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, SciPy, Phi_K)  
