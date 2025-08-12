@@ -7,19 +7,32 @@
 [![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:av_paramonov@inbox.ru)
 
 ---
+
 <h3 align="left">🛠 Технологии:</h3>
 
-###
+<div align="left">  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="40" />
+<img width="8" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
+<img width="8" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40" width="40" />
+<img width="8" />
+<img src="https://worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="40" width="40" />
+<img width="8" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" height="40" width="40" />
+<img width="8" />
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="Scipy" height="40" width="40" />
+<img width="8" />
+<img src="https://i.postimg.cc/vBTMHxvM/jupyter.jpg" alt="Jupyter Notebook" height="40" width="40" />
+</div> 
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://github.com/av-paramonov/av-paramonov/blob/02f67d67c8d8f657ce2deadda2ebea1e6ed98f8f/logo_datalens_3.jpeg" height="30" alt="datalens logo"  /> 
-  <img width="12" />
-  <img src="https://github.com/av-paramonov/av-paramonov/blob/f5da942d1c33e5df3e97b85d3cc2f09e6c6d9ea0/logo_excel_2.webp" height="30" alt="datalens logo"  />
-</div>
+<div align="left">  
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+<img width="12" />
+<img src="https://i.postimg.cc/8cwCngwP/1992917f382f70752f1327c6f10e0a7a.png" alt="Excel" height="40" width="40" />
+<img width="12" />
+<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" alt="Datalens" />
+</div> 
 
 ---
 
