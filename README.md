@@ -22,16 +22,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" height="40" width="40" />
 <img width="8" />
 <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="Scipy" height="40" width="40" />
-<img width="8" />
-<img src="https://i.postimg.cc/vBTMHxvM/jupyter.jpg" alt="Jupyter Notebook" height="40" width="40" />
 </div> 
 
 <div align="left">  
+<img src="https://i.postimg.cc/vBTMHxvM/jupyter.jpg" alt="Jupyter Notebook" height="40" width="40" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 <img width="12" />
 <img src="https://i.postimg.cc/8cwCngwP/1992917f382f70752f1327c6f10e0a7a.png" alt="Excel" height="40" width="40" />
 <img width="12" />
-<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" alt="Datalens" />
+<img src="logo_datalens_3.jpeg" alt="Datalens" height="40" />
 </div> 
 
 ---
