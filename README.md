@@ -17,7 +17,7 @@
 <img width="8" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40" width="40" />
 <img width="8" />
-<img src="https://worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="40" width="40" />
+<img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" height="40" width="40" />
 <img width="8" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" height="40" width="40" />
 <img width="8" />
